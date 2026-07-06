@@ -1,6 +1,7 @@
 #EC2 status checker 
 
 # Checks the state of an ec2 instance so i can run the ec2_control.py to start or stop.
+# We need to merge this with the EC2 control.py so we can have one script
 
 import boto3
 
